@@ -5,6 +5,10 @@
         <nuxt/>
       </v-container>
     </v-content>
+  <v-footer class="pa-3">
+    <v-spacer></v-spacer>
+    <div>&copy; @NoizBuster</div>
+  </v-footer>
   </v-app>
 </template>
 
